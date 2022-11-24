@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **fabianachara@gmail.com**
 
-- Personal Portfolio [https://kellys-portfolio.netlify.app/]
+- [Personal portfolio] (https://kellys-portfolio.netlify.app/)
 
 
