@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kelly React frontend developer</h1>
-<h3 align="center">A passionate React frontend developer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Kelly React Software developer</h1>
+<h3 align="center">A passionate MERN fullstack developer from Colombia</h3>
 
 
 
