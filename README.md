@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kelly Chara</h1>
-<h3 align="center">Passionate React Frontend developer</h3>
+<h3 align="center">Passionate Game developer</h3>
 
-- 🔭 I’m currently working on **Nocountry**
+- 🔭 I’m currently working on **Sunshine offers**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **International teams**
 
 - 👨‍💻 All of my projects are available at [https://kellys-portfolio.netlify.app/](https://kellys-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Unity ecosystem**
 
-- 📫 How to reach me **kellyfchara@gmail.com**
+- 📫 How to reach me **fabianachara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
